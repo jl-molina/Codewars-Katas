@@ -8,7 +8,7 @@
     Description:Write a function that checks if a given string (case insensitive) is a palindrome.
     */
 
-// PHP
+// JavaScript
 // Solution
 function isPalindrome(x) {
   const arr = x.toUpperCase().split('');
